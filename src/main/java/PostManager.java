@@ -9,6 +9,7 @@ public class PostManager {
     private int offset;
     private boolean extended;
     private String fields;
+    private int postId;
 
 
 
